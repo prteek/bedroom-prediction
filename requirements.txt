@@ -1,0 +1,16 @@
+##### Core scientific package
+numpy
+pandas
+
+##### Machine Learning related packages
+scikit-learn
+yellowbrick
+
+#### Visualisation
+matplotlib
+altair
+
+#### AWS
+boto3
+sagemaker
+awswrangler
