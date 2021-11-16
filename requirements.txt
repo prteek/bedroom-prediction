@@ -5,6 +5,7 @@ pandas
 ##### Machine Learning related packages
 scikit-learn>=1.0
 yellowbrick
+scikit-learn-intelex
 
 #### Visualisation
 matplotlib
