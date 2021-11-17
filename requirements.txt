@@ -3,7 +3,7 @@ numpy
 pandas
 
 ##### Machine Learning related packages
-scikit-learn>=1.0
+scikit-learn
 yellowbrick
 scikit-learn-intelex
 
@@ -12,6 +12,4 @@ matplotlib
 altair
 
 #### AWS
-boto3
-sagemaker
 awswrangler
