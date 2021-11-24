@@ -9,7 +9,4 @@ scikit-learn-intelex
 
 #### Visualisation
 matplotlib
-altair
 
-#### AWS
-awswrangler
